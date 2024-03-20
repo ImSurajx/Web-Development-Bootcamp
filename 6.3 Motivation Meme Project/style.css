@@ -1,0 +1,35 @@
+html{
+    background-color: black;
+}
+#img{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+#heading{
+    width: 50%;
+    margin-left: 25%;
+}
+#para{
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    width: 100%;
+    border: 10px solid white;
+}
+
+h1{
+    width: 100%;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+}
+
+p{
+    color: white;
+    text-align: center;
+    width: 100%%;
+}
+
